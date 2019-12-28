@@ -1,0 +1,17 @@
+ES:
+  hostname: 127.0.0.1
+  port: 9200
+  scheme: http
+server:
+  port: 8888
+#spring:
+#  data:
+#    mongodb:
+#      database: Logs
+#      host: 182.92.4.51
+#      port: 27017
+#      username: lh
+#      password: w5631583
+##      database: lh
+##      host: 127.0.0.1
+
